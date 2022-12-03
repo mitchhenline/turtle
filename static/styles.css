@@ -1,0 +1,44 @@
+#header {
+    background-color: grey;
+    height: 100px;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.banner {
+    background-color: rgba(69, 69, 69, 0.586);
+    text-align: center;
+    color: azure;
+    height: 75px;
+    vertical-align: middle;
+}
+
+#l-banner {
+    background-color: blue;
+}
+
+#m-banner {
+    background-color: orange;
+}
+
+#r-banner {
+    background-color: red;
+}
+
+#d-banner {
+    background-color: purple;
+}
+
+#site-title {
+    background-color: grey;
+}
+
+body {
+    background-color: green;
+}
+
+.turtle-links {
+    display: inline-block;
+}
